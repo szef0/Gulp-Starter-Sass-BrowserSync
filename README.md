@@ -1,4 +1,4 @@
-Gulp with sass, browser sync and babel. 
+Gulp with sass with browser sync. 
 
 1. git clone
 2. npm install gulp gulp-sass browser-sync
